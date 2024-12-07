@@ -1,1 +1,2 @@
-# OCTANET_DECEMBER
+# frontend project
+This is a landing page using html and css
